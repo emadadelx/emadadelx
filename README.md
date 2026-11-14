@@ -4,6 +4,8 @@
 
 [ITT](https://gitlab.com/emadadel/itt) : ITT (Install Tweaks Tool) - included most Windows 10/11 Software and Tweaks.
 
+[Batman Cave](https://batscave.gitlab.io/): Arabic Community Archive.
+
 ###
 
 <h3 data-importer="text" align="left">🛠 Language and tools</h3>
